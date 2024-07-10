@@ -1,0 +1,23 @@
+Installaction Process : 
+
+step 1 : install node modules,
+
+command : npm install.
+
+step 2 : Package installaction,
+
+command : npm install react-router-dom,
+
+command : npm install styled-components,
+
+command : npm install react-icons.
+
+How to Run the Project : 
+
+step 1 : cd < navigate the this folder location >.
+
+step 2 : complete this all installaction Package and Node Module's.
+
+step 3 : npm start. { directly redirect your Browser } { Port : 3000 }
+
+Thanking You!
